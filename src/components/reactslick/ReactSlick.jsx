@@ -13,7 +13,8 @@ export default class SliderProjects extends React.Component {
       vertical: true,
       verticalSwiping: true,
       centerMode: true,
-      className: "center"
+      className: "center",
+      arrows: false
     };
     return (
       <>
